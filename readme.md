@@ -1,7 +1,7 @@
 
 # Robust Counterfactual Explanations for Neural Networks With Probabilistic Guarantees
 
-Welcome to the  repository for the paper "Robust Counterfactual Explanations for Neural Networks With Probabilistic Guarantees." This research was presented at the International Conference on Machine Learning (ICML 2023) and is a collaborative effort between [Faisal Hamman](https://www.faisalhamman.com/), [Erfaun Noorani](https://enoorani.github.io/), [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), [Daniele Magazzeni](https://scholar.google.com/citations?user=IWXDluMAAAAJ&hl=en), and [Sanghamitra Dutta](https://sites.google.com/site/sanghamitraweb/). For further details, please refer to our [paper](https://arxiv.org/pdf/2305.11997.pdf).
+Welcome to the  repository for the paper "Robust Counterfactual Explanations for Neural Networks With Probabilistic Guarantees." This research was presented at the International Conference on Machine Learning (ICML 2023) and is a collaborative effort between [Faisal Hamman](https://www.faisalhamman.com/), [Erfaun Noorani](https://enoorani.github.io/), [Saumitra Mishra](https://scholar.google.co.uk/citations?user=On6E6ogAAAAJ&hl=en), [Daniele Magazzeni](https://scholar.google.com/citations?user=IWXDluMAAAAJ&hl=en), and [Sanghamitra Dutta](https://sites.google.com/site/sanghamitraweb/). For further details, please refer to our [paper](https://arxiv.org/abs/2305.11997).
 
 ## Installation
 
